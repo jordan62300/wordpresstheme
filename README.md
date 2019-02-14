@@ -11,4 +11,5 @@ Connect you to your wordpress and go to your admin interface
 Click on appearance and select the theme "jordan"
 
 
-# wordpresstheme
+
+
